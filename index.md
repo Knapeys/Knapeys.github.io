@@ -1,7 +1,9 @@
 ---
-layout: page
-title: About Me
+layout: default
+title: ""
 permalink: /
 ---
 
-Hello, my name is Yasar. I am a third year computer engineering student. I enjoy playing video games, reading books and riding my bicycle in my free time. 
+# About Me
+
+Hello, my name is Yasar. I am a third-year computer engineering student. I enjoy playing video games, reading books, and riding my bicycle in my free time.
