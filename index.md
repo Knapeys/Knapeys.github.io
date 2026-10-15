@@ -1,0 +1,7 @@
+---
+layout: page
+title: About Me
+permalink: /
+---
+
+Hello, my name is Yasar. I am a third year computer engineering student. I enjoy playing video games, reading books and riding my bicycle in my free time. 
